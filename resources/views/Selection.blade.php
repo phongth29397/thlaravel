@@ -22,7 +22,7 @@
 
                 <div class="container box-shadow">
                 <nav>
-                    <a class="navbar-brand" href="#">Trang Chủ</a>
+                    <a class="navbar-brand" href="#">Trang Chủ 1</a>
                     <a class='navbar-brand' href="#">|</a>
                     @foreach($name_products as $name)
                         <a class="navbar-brand" href="#">{{($name->category_name)}}</a>
